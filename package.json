@@ -7,8 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "",
+  "author": "MORROW",
   "license": "ISC",
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinwook31/Dormtakki_Chatbot.git"
+  },
   "dependencies": {
     "botbuilder": "^3.9.1",
     "express": "^4.15.4",
